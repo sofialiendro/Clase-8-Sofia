@@ -1,0 +1,46 @@
+.links-navegacion {
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-end;
+  box-shadow: 0 0 29px 0 rgba(134, 134, 134, 0.25);
+}
+
+.links-navegacion li {
+  margin: 20px;
+}
+
+header {
+  background-color: pink;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+section {
+  background-color: yellowgreen;
+  height: 500px;
+  width: 80%;
+}
+
+.principal {
+  display: flex;
+}
+
+aside {
+  background-color: yellow;
+  width: 20%;
+}
+
+article {
+  background-color: orange;
+  width: 300px;
+  margin: 20px;
+}
+
+footer {
+  height: 200px;
+  background-color: paleturquoise;
+}
+
